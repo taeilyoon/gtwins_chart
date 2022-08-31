@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "gtwins_chart",
+		"path": "."
+	},
+	{
+		"name": "lib",
+		"path": "../../Flutter/gtwins_chart/lib"
+	},
+	{
+		"name": "test",
+		"path": "../../Flutter/gtwins_chart/test"
+	}
+],
+  "settings": {}
+}
